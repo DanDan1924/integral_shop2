@@ -1,0 +1,30 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac-specific directory that no other operating system needs.
+.DS_Store
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*~
+bower_components
+
+# vs
+.vscode
+
+# Java
+*.class
+hs_err_pid*
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.log
+node_modules
+dist
