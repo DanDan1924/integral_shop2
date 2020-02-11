@@ -26,5 +26,5 @@ hs_err_pid*
 
 # Package Files #
 *.log
-node_modules
+/node_modules
 dist
